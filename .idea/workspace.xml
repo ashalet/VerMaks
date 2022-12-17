@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f23816f-e778-4c97-8f3c-47bef8b64b4a" name="Changes" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GRyFYs2GaV5XKst6avM9rmO0BA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/kirill/PycharmProjects/Wilv4rin",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api" />
+      <recent name="$PROJECT_DIR$/portfolio/templates/portfolio" />
+      <recent name="$PROJECT_DIR$/portfolio" />
+      <recent name="$PROJECT_DIR$/portfolio/static/portfolio" />
+      <recent name="$PROJECT_DIR$/card_site/templates/card_site" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/static/portfolio/img" />
+      <recent name="$PROJECT_DIR$/portfolio" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static/images_works" />
+      <recent name="$PROJECT_DIR$/account/templates/account" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="VerMaks" type="Python.DjangoServer" factoryName="Django server">
+      <module name="VerMaks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="VerMaks.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f23816f-e778-4c97-8f3c-47bef8b64b4a" name="Changes" comment="" />
+      <created>1666365587332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666365587332</updated>
+      <workItem from="1666365597683" duration="5557000" />
+      <workItem from="1666417215732" duration="1248000" />
+      <workItem from="1666523426745" duration="124000" />
+      <workItem from="1666684159662" duration="13085000" />
+      <workItem from="1666890927089" duration="3276000" />
+      <workItem from="1666961021915" duration="977000" />
+      <workItem from="1666972927488" duration="9271000" />
+      <workItem from="1667035671115" duration="23000" />
+      <workItem from="1667053720636" duration="4170000" />
+      <workItem from="1667075880099" duration="41000" />
+      <workItem from="1667075932701" duration="681000" />
+      <workItem from="1667076627718" duration="57000" />
+      <workItem from="1667076694761" duration="146000" />
+      <workItem from="1667076989073" duration="64000" />
+      <workItem from="1667077063345" duration="845000" />
+      <workItem from="1667077920635" duration="225000" />
+      <workItem from="1667078156708" duration="182000" />
+      <workItem from="1667078354252" duration="353000" />
+      <workItem from="1667125290851" duration="20517000" />
+      <workItem from="1667302816557" duration="3668000" />
+      <workItem from="1667310447220" duration="9239000" />
+      <workItem from="1667401935122" duration="4986000" />
+      <workItem from="1667488071829" duration="7380000" />
+      <workItem from="1667553574538" duration="1987000" />
+      <workItem from="1667559178563" duration="3306000" />
+      <workItem from="1667569516264" duration="7782000" />
+      <workItem from="1667594290330" duration="1216000" />
+      <workItem from="1667633039976" duration="2470000" />
+      <workItem from="1667653619099" duration="394000" />
+      <workItem from="1667844491805" duration="272000" />
+      <workItem from="1668331629518" duration="17704000" />
+      <workItem from="1668505731843" duration="3015000" />
+      <workItem from="1668806021440" duration="755000" />
+      <workItem from="1668845806960" duration="5510000" />
+      <workItem from="1668871978491" duration="770000" />
+      <workItem from="1668941688444" duration="4546000" />
+      <workItem from="1671038456824" duration="191000" />
+      <workItem from="1671032379503" duration="23000" />
+      <workItem from="1671218983818" duration="10234000" />
+      <workItem from="1671229354081" duration="2201000" />
+      <workItem from="1671258776955" duration="4182000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1667576814751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667576814751</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1667577292025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667577292025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/api/urls.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
