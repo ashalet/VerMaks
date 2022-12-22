@@ -3,7 +3,7 @@
 Цель проекта: Создание сайта - визитки с установкой оповещений в мессенджер Telegram.
 
 # Состав команды Кубаноиды:
-  [Борисенко Кирилл Сергеевич(https://github.com/ashalet)] МКИС24 - backend developer.
+  (Борисенко Кирилл Сергеевич[https://github.com/ashalet]) МКИС24 - backend developer.
   [Самуйленко Артем Владимирович(https://github.com/ArtSamuylenko)] МКИС24 - frontend developer
   
 # Полезные ссылки:
